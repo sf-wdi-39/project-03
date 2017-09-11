@@ -26,7 +26,7 @@
 
 Make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that will be visually impressive**.
 
-**You may work on this project individually or in pairs.** See the [project planning deliverables](#project-planning-deliverables) section below for extra planning requirements for pairs.
+**You should work on this project individually**, but we will consider proposals for pair projects if you're interested in having a partner. See the [project planning deliverables](#project-planning-deliverables) section below for extra planning requirements for pairs.
 
 ---
 
@@ -114,9 +114,9 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### When is the project due?
 
-* **{{ENTER PROJECT PLANNING DELIVERABLES HERE}}** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Tuesday September 12th, 9:15 am** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **{{ENTER PROJECT PRESENTATION AND DUE DATE HERE}}** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Tuesday September 19th, 9:15am** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -133,7 +133,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### What should I cover during my presentation?
 
-Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE DATE HERE}}**. Each presentation should be **8 minutes or less** and cover the following:
+Project 3 presentations will start at **9:15** on **Tuesday, September 19th**. Each presentation should be **8 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * Demo of your project's core functionality.
@@ -148,7 +148,7 @@ Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE D
 
 You'll meet with your assigned instructor / DIR daily to guide you throughout the project. They will also be sending you feedback on the project afterwards.
 
-#### INSTRUCTOR
+#### Cory
 
 * TBD
 * TBD
@@ -156,14 +156,7 @@ You'll meet with your assigned instructor / DIR daily to guide you throughout th
 * TBD
 
 
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### INSTRUCTOR
+#### Justin
 
 * TBD
 * TBD
